@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Al-Kisah 25 Nabi dan Rosul</string>
+    <string name="dummy_description">Pada waktu umat manusia dalam kegelapan dan suasana jahiliyyah, lahirlah seorang bayi pada 12 Rabiul Awal tahun</string>
+    <string name="failed">Failed</string>
+    <string name="story">Kisah</string>
+    <string name="usia">Usia: %s tahun</string>
+</resources>
